@@ -1,15 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Glimpse into Anusha's life
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Anusha Patil. I came to New York in 2019 to pursue a Masters degree in Data Science at NYU Center for Data Science. 
+I have a strong background in Electronics and Communication Engineering and keen interest in Computer Science principles and this multi-disciplinary education has led me to this career path. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### my history
 
