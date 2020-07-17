@@ -39,10 +39,10 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "arp624@nyu.edu"
-  facebook: anusha.patil.355
+  # facebook: anusha.patil.355
   github: anushapatil5
   twitter: anushapatil1710
-  rss: true
+   # rss: true
 #  reddit: yourname
   linkedin: anushapatil
 #  xing: yourname
