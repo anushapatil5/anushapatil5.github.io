@@ -12,11 +12,16 @@ author: Anusha Patil
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: ""
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://anushapatil5.github.io"
+  Experience: "experience"
+  Projects: "projects"
+  Resume: "assets/AP-CV.pdf"
+  
+  #Resources:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://anushapatil5.github.io"
 
 # --- Logo --- #
 
