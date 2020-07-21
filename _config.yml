@@ -12,7 +12,7 @@ author: Anusha Patil
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
+  Home: "https://anushapatil5.github.io"
   About Me: "aboutme"
   Experience: "experience"
   Projects: "projects"
