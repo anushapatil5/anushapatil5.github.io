@@ -5,29 +5,18 @@ subtitle: Making an impact in Data Science one internship at a time
 ---
 
 ## Experience
-+ **IBM (Watson Healthcare & Life Sciences)**: Responsible for the successful delivery of data science solutions and services in a client consulting environment. Built an end-to-end system to process, manipulate, and analyze text from PDF documents and news articles. Developed entity and relationship extraction models using n-gram similarities and Markov chain achieving F1 score of 0.5. Employed dynamic systems that improve learning based on outcomes to get smarter with each iteration
++ **Graduate Research Assistant (NLP)**: Working on automating the data mining process for a text-as-data processing task by developing a tool to automatically select the most informative observations, building more accurate classifiers at lower cost. In most text-as-data applications, the first step involves collecting a corpus and randomly selecting some observations to hand-label. I am working on representing documents in a low-dimensional space, then identifying the documents that best span that space, ensuring that each hand-labeled document adds as much information as possible to the predictive model. I am currently working with Aaron Kaufman who is an Assistant Professor at NYU.
 
 
-+ **Harvard Medical School**: Simulated a Markov chain using the Monte Carlo method to mimic a genetic network. Used Principal Component analysis for feature engineering and logistic regression for classification. Statistical analysis and analytical calculations correlated strongly with the experimental observations
++ **Data Science Summer Incubator Program**: Working on non-invertible, privacy preserving representation learning for audio using OpenL3. The entire pipeline includes extracting features from audio (its melspectrogram) by using OpenL3 and building an inversion model which uses the embeddings obtained from the OpenL3 model to reconstruct the original audio (its melspectrogram). We are working on limiting the reconstruction of audio from its features by adding counter measures such as noise injection, quantization etc. so as to preserve privacy. The aim is for this reconstructed audio to have enough features to be usable for a downstream task but keeping the privacy of its content preserved. Mentor: Brian McFee, Assistant Professor at NYU.
 
 
-+ **IIT Delhi**: Optimized the performance of a diagnostic device with respect to the concentration, temperature, and humidity. Applied nonlinear regression analysis on experimental data sets yielding R<sup>2</sup> values as high as 0.98 
++ **Verzeo**: Worked on deploying a Q&A system in EdTech. Used cosine similarity between sentences to find answers to questions from Verzeo's online course database. Responsible for database management using MySQL Workbench.
 
++ **42hertz INC (acquired by Cisco)** Worked on implementing a CLV prediction model using Pareto/NBD model and the Lifetimes library in Python. [See post here](https://anushapatil5.github.io/2020-07-09-cltv/). Also was part of the end-to-end implementation from designing the architecture, testing all the way up to the deployment of a recommender system for Shopify, the E-commerce solutions platform. The recommender system is an app that can be found in the Shopify App Store. [Click here to see the app](https://apps.shopify.com/kraken?surface_detail=kraken+recommends&surface_inter_position=1&surface_intra_position=4&surface_type=search). I worked closely with [Jagadeesh Dyaberi](https://www.linkedin.com/in/jagadeesh-dyaberi-4a87951/), the VP of Engineering and Delivery at 42hertz INC.
 
++ **Indian Institute of Astrophysics** Responsible for analysis of emission lines in the spectral data of a classical nova obtained from the Himalayan Chandra Telescope using [Image Reduction and Analysis Facility](https://github.com/iraf-community/iraf). I wrote a paper at the end of the internship that summarizes my analysis and findings. [Click here to see the paper](https://github.com/anushapatil5/SpectralAnalysis). Selected by Indian Academy of Science's Summer Research Fellowship Program and was among 194 selected candidates across India. Selected by [Dr. G.C.Anupama](https://en.wikipedia.org/wiki/G._C._Anupama), Dean of Indian Institute of Astrophysics and the first woman to serve as President of the Astronomical Society of India. 
 
-## Projects
-
-
-+ **[Semantic Segmentation](https://github.com/Regressionist/Semantic-Segmentation-UNet)**: Implemented the Unet architecture with pixel shuffle for dense prediction on Cityscapes dataset. Devised a new training loss function to enforce background prediction for inconsistent structures. Achieved 0.826 mean IoU on the holdout set
-
-
-+ **[DeepRecommender](https://github.com/Regressionist/Autoencoder-based-Recommendation-System)**: Developed a model for the rating prediction task in recommender systems using Autoencoders. Refined the model using dense refeeding (to combat the sparsity of the user-item matrix) and dropout regularization. Achieved 0.925 RMSE on the holdout set of Amazon android apps ratings
-
-
-+ **[Financial time-series forecast](https://github.com/Regressionist/Stock-prediction-Dual-Attention-based-RNN-)**: Devised a Dual-Stage Attention-Based RNN to predict DJIA stock closing prices for the next 50 days from historic data. Incorporated feature engineering techniques including moving averages and exponential moving averages. Achieved 92% directional accuracy on the test set
-
-
-+ [**Flight Delay Prediction**](https://github.com/Regressionist/Flight-Delay-Prediction): Worked in a team of three to design a model to predict flight delays for flights departing from JFK airport based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.78 AUC using ensemble methods
 
 
 + [**Sentiment analysis**](https://github.com/Regressionist/Sentiment-analysis): Classified Amazon reviews as postive and negative using RNN and bidirectional multilayer LSTM. Achieved classification accuracy of 0.952 on the test set
