@@ -12,7 +12,7 @@ subtitle: My myriad experiences doing Data Science
 
 + **Flight Delay Prediction**: Designed a model to predict flight delays for flights departing from three major airports in the US based on historical data of flight delays, past weather data and US Bank holidays data. Achieved 0.91 accuracy using ensemble methods
 
-+ **Book Recommendation Engine**: Implemented a book recommendation engine using Alternating Least Squares (ALS) in Spark. Carried out data exploration using t-SNE.
++ **Book Recommendation Engine**: Implemented a book recommendation engine using Alternating Least Squares (ALS) in Spark. Carried out data exploration using t-SNE. [See Report](assets/Project_report.pdf)
 
 
 
