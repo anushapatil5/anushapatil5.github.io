@@ -17,5 +17,5 @@ Hope you've enjoyed my blog!
 
 + **Engineering Final Year Project**: Won the Best Project Award for the final year engineering project where my team and I implemented a working model of the [FarmBot](https://farm.bot/).
 
-+ **Hackathon**: Secured first place in the Datathon organized by [Understood.org](https://www.understood.org/), hosted by NYU Center for Data Science. My team and I worked on building a recommender system for articles.
++ [**Hackathon**](https://github.com/anushapatil5/datathon_2020): Secured first place in the Datathon organized by [Understood.org](https://www.understood.org/), hosted by NYU Center for Data Science. My team and I worked on building a recommender system for articles.
 
